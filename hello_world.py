@@ -12,4 +12,4 @@ class HelloWorld:
         
 if __name__ == "__main__":
     hw = HelloWorld()
-    hw.print_with_border("Hello World", "=")
+    hw.print_with_border("Hello World", "+")
